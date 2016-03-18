@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">My App Portfolio</string>
+    <string name="spotify_streamer">Spotify Streamer</string>
+    <string name="scores_app">Scores APP</string>
+    <string name="library_app">Library App</string>
+    <string name="build_bigger">Build it Bigger APP</string>
+    <string name="xyz_reader">XYZ Reader APP</string>
+    <string name="cap_stone">CAPSTONE APP: My Own APP</string>
 </resources>
